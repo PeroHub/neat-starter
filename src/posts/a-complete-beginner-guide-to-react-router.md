@@ -180,7 +180,7 @@ COPY
 
 Run **npm start** on your terminal... You should have your app running and links to various routes as should below.
 
-![Screenshot 2022-09-20 at 12.44.53.png](/static/img/276235076_1109454279840248_153228080995940830_n.jpg)
+![Screenshot 2022-09-20 at 12.44.53.png](/static/img/276235076_1109454279840248_153228080995940830_n.jpg "peter")
 
 # [](https://paulkeno.hashnode.dev/a-complete-beginner-guide-to-react-router#heading-conclusion "Permalink")Conclusion
 
