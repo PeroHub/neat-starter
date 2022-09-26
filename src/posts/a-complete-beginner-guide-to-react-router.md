@@ -184,6 +184,4 @@ Run **npm start** on your terminal... You should have your app running and lin
 
 # [](https://paulkeno.hashnode.dev/a-complete-beginner-guide-to-react-router#heading-conclusion "Permalink")Conclusion
 
-This brings us to the end of the article. Kudos to you if you made it this far.
-
-React Router is an awesome library that helps us go from a single page to a multi-page application feeling with great usability. (Just keep in mind – at the end of the day, it's still a single page app[(SPA)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)).
+This brings us to the end of the article. Kudos to you if you made it this far.nReact Router is an awesome library that helps us go from a single page to a multi-page application feeling with great usability. (Just keep in mind – at the end of the day, it's still a single page app[(SPA)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)).
