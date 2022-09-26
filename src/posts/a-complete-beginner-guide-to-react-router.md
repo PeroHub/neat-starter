@@ -150,8 +150,8 @@ COPY
 
 COPY
 
-```
-
+```javascript
+const let
 ```
 
 #### [](https://paulkeno.hashnode.dev/a-complete-beginner-guide-to-react-router#heading-link "Permalink")Link
