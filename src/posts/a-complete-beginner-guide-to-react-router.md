@@ -4,7 +4,7 @@ description: Understand the fundamentals on routing in React in 5 minutes.
 author: Peter
 date: 2022-09-21T12:18:14.657Z
 tags:
-  - from
+  - created
 ---
 # Introduction
 
@@ -101,7 +101,7 @@ COPY
 COPY
 
 ```
-
+reertetrertererererererr
 ```
 
 ##### [](https://paulkeno.hashnode.dev/a-complete-beginner-guide-to-react-router#heading-folder-structure "Permalink")Folder Structure
@@ -180,7 +180,7 @@ COPY
 
 Run **npm start** on your terminal... You should have your app running and links to various routes as should below.
 
-![Screenshot 2022-09-20 at 12.44.53.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1663679478382/b1ueSDNxC.png?auto=compress,format&format=webp)
+![Screenshot 2022-09-20 at 12.44.53.png](/static/img/276235076_1109454279840248_153228080995940830_n.jpg)
 
 # [](https://paulkeno.hashnode.dev/a-complete-beginner-guide-to-react-router#heading-conclusion "Permalink")Conclusion
 
