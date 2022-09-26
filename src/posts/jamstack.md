@@ -9,6 +9,12 @@ image: /static/img/276235076_1109454279840248_153228080995940830_n.jpg
 ---
 done
 
-
-
 `let const me = 10;`
+
+``
+
+``
+
+```javascript
+let const me = 1000;
+```
