@@ -24,11 +24,16 @@ layout: blog
 
                 </time>
             </p>
+           
+           
+            <!-- <img src="" alt=""> -->
             {% if post.data.description %}
                 <p class="text-lg text-gray-500 mb-3">
                     {{ post.data.description }}
                 </p>
             {% endif %}
+
+            <img src="{{ post.data.image }}" alt="{{ post.image.imageAlt}}">
 
             <p>
                 <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
