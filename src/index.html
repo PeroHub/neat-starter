@@ -27,9 +27,9 @@ path: home
   <article class=" w-full grid   sm:grid-cols-2 md:grid-cols-3 gap-4 mr-4 ">
       {% for post in collections.post | reverse %}
       <a href="{{ post.url | url }}" >
-        <div class=" border h-full   border-gray-400 rounded-md">
+        <div class=" border h-full    rounded-md shadow-lg">
           <div class=""><img class=""  src="{{post.data.image}}"  alt="" /></div>
-          <p class="p-8">{{post.data.title}}</p>
+          <p class="p-8 text-2xl">{{post.data.title}}</p>
         </div>
       </a>
       <!-- <div class="border w-full">
@@ -40,7 +40,7 @@ path: home
     </article>
 
  <aside class="w-1/4 min-h-5 border hidden sm:hidden md:block ">
-   <section class="bg-slate-900 p-4">
+   <section class="bg-slate-900 p-6">
     <div class="rounded-full  h-34 w-34 m-8 ">
       <img class="rounded-full" src="./static/img/276235076_1109454279840248_153228080995940830_n.jpg" height="inherit" width="inherit" alt="author avatar">
     </div>
