@@ -2,12 +2,12 @@
 author: Peter
 thumbnail: /static/img/276235076_1109454279840248_153228080995940830_n.jpg
 imageAlt: A man on laptop
-image: /static/img/276235076_1109454279840248_153228080995940830_n.jpg
 title: A Complete Beginner Guide To React Routerf
 description: Understand the fundamentals on routing in React in 5 minutes.
 date: 2022-09-21T12:18:14.657Z
 tags:
   - created
+image: /static/img/bangles.png
 ---
 # Introduction
 
