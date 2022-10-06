@@ -23,13 +23,13 @@ path: home
   
 </div>
 
-<section class="flex w-full justify-between mt-10 p-8 ">
+<section class="flex w-full justify-between mt-10 p-2 md:p-8 overflow-hidden ">
   <article class=" w-full grid   sm:grid-cols-2 md:grid-cols-3 gap-4 mr-4 ">
       {% for post in collections.post | reverse %}
       <a href="{{ post.url | url }}" >
         <div class=" border h-full    rounded-md shadow-lg">
           <div class=""><img class=""  src="{{post.data.image}}"  alt="" /></div>
-          <p class="p-8 text-2xl">{{post.data.title}}</p>
+          <p class="p-8 text-lg md:text-2xl">{{post.data.title}}</p>
         </div>
       </a>
       <!-- <div class="border w-full">
